@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bctest-jdk15on-160">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bctest-jdk15on-160.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bctls-jdk15on-160.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bcprov-ext-jdk15on-160.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bcpkix-jdk15on-160.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bcpg-jdk15on-160.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bcmail-jdk15on-160.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
